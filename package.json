@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "terser": "^4.7.0"
+    "terser": "^4.8.0"
   },
   "devDependencies": {
     "grunt": "^1.0.4",
